@@ -1,0 +1,2 @@
+# simple-ransomware
+simple ransomware
